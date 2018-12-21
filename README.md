@@ -49,7 +49,7 @@ progress, but being used.
 
 These are used in the generated code. It's totally legit to write them directly though.
 
-#### Consturctor
+#### Constructor
 
 ```js
 var fixture = new Tacks(Dir({
@@ -155,7 +155,7 @@ or
   })
 ```
 
-#### Geneate JavaScript From Directory
+#### Generate JavaScript From Directory
 
 ```js
 var generateFromDir = require('tacks/generate-from-dir')
